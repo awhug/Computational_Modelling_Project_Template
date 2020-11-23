@@ -1,6 +1,6 @@
 # Generic Computational Modelling Project Template
 
-This folder structure aims to ensure replicability for experiments involving computational modelling from design to publication, and hopefully save time and heaches in the long run. This project template (and notes below) are from Dani Navarro (@djnavarro), Andy Perfors (@perfors), and Charles Kemp (@cskemp), presented at the [2018 Complex Human Data Summer School](https://github.com/cskemp/chdss2018).
+This folder structure aims to ensure replicability for experiments involving computational modelling from design to publication, and hopefully save time and heaches in the long run. This project template (and notes below) are from Dani Navarro ([@djnavarro](https://github.com/djnavarro)), Andy Perfors ([@perfors](https://github.com/perfors)), and Charles Kemp ([@cskemp](https://github.com/cskemp)), presented at the [2018 Complex Human Data Summer School](https://github.com/cskemp/chdss2018).
 
 People may differ in their preferences for organising the folders, but the key goals of this template are:
 
